@@ -1,0 +1,4 @@
+C:\Users\Diego Plascencia\OneDrive\Escritorio\Carpetas\practicas 2026\Practicas de c#\Practica 3\Practica 3\obj\Debug\net8.0\Practica 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego Plascencia\OneDrive\Escritorio\Carpetas\practicas 2026\Practicas de c#\Practica 3\Practica 3\obj\Debug\net8.0\Practica 3.AssemblyInfoInputs.cache
+C:\Users\Diego Plascencia\OneDrive\Escritorio\Carpetas\practicas 2026\Practicas de c#\Practica 3\Practica 3\obj\Debug\net8.0\Practica 3.AssemblyInfo.cs
+C:\Users\Diego Plascencia\OneDrive\Escritorio\Carpetas\practicas 2026\Practicas de c#\Practica 3\Practica 3\obj\Debug\net8.0\Practica 3.csproj.CoreCompileInputs.cache
